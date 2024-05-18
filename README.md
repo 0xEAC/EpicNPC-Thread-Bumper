@@ -1,7 +1,9 @@
 # EpicNPC Thread Bumper
 
 ## Requirements
-This requires FireFox to be installed, I personally don't like Chrome.
+. FireFox requires to be installed.
+* Selenium.WebDriver NUGET Package.
+. .NET 6 required.
 
 ### Basic Guide
 1. You will need to obtain several browser cookies from your current session inside your browser. (requires login)

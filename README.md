@@ -14,6 +14,7 @@
 
 
 ### Final Notes
-Sometimes it will end up skipping a thread or throw an error in the browser, if it happens just re-run the program.
+Sometimes it will end up not bumping a thread for some reason or throw an error in the browser, if it happens just re-run the program.
+It will automatically skip the threads that already have been bumped.
 
 **Enjoy!**

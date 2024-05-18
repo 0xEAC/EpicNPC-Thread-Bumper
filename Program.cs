@@ -5,6 +5,7 @@ FirefoxDriver driver = null;
 
 try
 {
+    // Make sure to put your thread urls inside urls.txt
     string fileName = @"urls.txt";
 
     string[] urls = File.ReadAllLines(fileName);

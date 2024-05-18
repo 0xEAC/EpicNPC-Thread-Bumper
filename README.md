@@ -1,7 +1,7 @@
 # EpicNPC Thread Bumper
 
 ## Requirements
-This requires FireFox to be installed, I personally don't like Chrome. ??
+This requires FireFox to be installed, I personally don't like Chrome.
 
 ### Basic Guide
 1. You will need to obtain several browser cookies from your current session inside your browser. (requires login)
